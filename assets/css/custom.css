@@ -1,0 +1,28 @@
+@import url('../fonts/opensans.css');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+	background: #5C6BC0;
+	height: 30vh;
+}
+
+.logo {
+	height: 20vh;
+	margin: 10px;
+}
+
+.title {
+	color: #fff;
+	text-align: center;
+}
+
+.page {
+	background: #C5CAE9;
+	height: 70vh;
+}
