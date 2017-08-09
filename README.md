@@ -1,4 +1,4 @@
 # my-template
 
 &bull; Template v1.0<br>
-Empty template
+<h6>Empty template</h6>
